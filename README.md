@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <h3 align="center">Languages and Tools:</h3>
     <p align="center">
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,matlab,idea,postgres,mysql,eclipse,mongodb,git,heroku,linux,arduino,redis" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,matlab,idea,postgres,mysql,eclipse,mongodb,git,heroku,linux,arduino" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     </a>
     </p>
